@@ -13,6 +13,7 @@ public class RemoveDups {
 				previous = n;
 			}
 			n = n.next;
+			System.out.println("nice!");
 		}
 	}
 }
